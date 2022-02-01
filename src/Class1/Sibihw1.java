@@ -36,30 +36,6 @@ public class Sibihw1 {
 
 
 
-
-
-
-
-git status
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
 }
