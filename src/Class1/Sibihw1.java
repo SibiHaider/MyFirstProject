@@ -65,7 +65,7 @@ public class Sibihw1 {
         double fTemp2 = 18f;
         double kTemp1 = (fTemp2 + 459.67) * 5/9;
         System.out.println("\n" + fTemp2 + "°F = " + kTemp1 + "K");
-
+        System.out.println("\n" + fTemp2 + "°F = " + kTemp1 + "K");
 
 
     }
